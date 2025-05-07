@@ -16,6 +16,9 @@
         <mxCell id="6TtWOJUDHK5TdZiUnbjl-4" value="CNN与Transformer混合模型&lt;div&gt;DETR，CTDMDet，CTMOT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6TtWOJUDHK5TdZiUnbjl-5" value="融合结构创新模型&lt;div&gt;CoAtNet，Conformer，ConViT，LeViT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
