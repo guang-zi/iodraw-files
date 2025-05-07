@@ -8,10 +8,10 @@
           <mxGeometry x="360" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6TtWOJUDHK5TdZiUnbjl-2" value="基于YOLO改进模型&lt;div&gt;YOLOv8-CX，GAM-C2f，YOLOv5n + TIF融合&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6TtWOJUDHK5TdZiUnbjl-3" value="纯Transformer模型&lt;div&gt;PVT，UNeXt，DeiT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6TtWOJUDHK5TdZiUnbjl-4" value="CNN与Transformer混合模型&lt;div&gt;DETR，CTDMDet，CTMOT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="480" width="120" height="60" as="geometry" />
