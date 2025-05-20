@@ -150,7 +150,7 @@
         <mxCell id="fmC1ktLiN5AWYUZ03mSH-40" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 36px;&quot;&gt;Concat&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="488.57" width="130" height="81.43" as="geometry" />
         </mxCell>
-        <mxCell id="fmC1ktLiN5AWYUZ03mSH-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Detect&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fmC1ktLiN5AWYUZ03mSH-41" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 36px;&quot;&gt;Detect&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="174.29" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fmC1ktLiN5AWYUZ03mSH-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fmC1ktLiN5AWYUZ03mSH-42" target="fmC1ktLiN5AWYUZ03mSH-35" edge="1">
