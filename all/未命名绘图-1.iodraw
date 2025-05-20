@@ -24,7 +24,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fmC1ktLiN5AWYUZ03mSH-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;SwinStage&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="280" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fmC1ktLiN5AWYUZ03mSH-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fmC1ktLiN5AWYUZ03mSH-10" target="fmC1ktLiN5AWYUZ03mSH-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
