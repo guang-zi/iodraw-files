@@ -30,7 +30,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SF-6-gWHAmF4t7GAsRac-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmC1ktLiN5AWYUZ03mSH-10" target="fmC1ktLiN5AWYUZ03mSH-47">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="540" />
+              <mxPoint x="220" y="219" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fmC1ktLiN5AWYUZ03mSH-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;SwinStage&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="500" width="160" height="80" as="geometry" />
