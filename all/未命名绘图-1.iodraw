@@ -405,7 +405,7 @@
         <mxCell id="FIe1XCEHFQ-Am0UI0LcA-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FIe1XCEHFQ-Am0UI0LcA-36" target="FIe1XCEHFQ-Am0UI0LcA-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FIe1XCEHFQ-Am0UI0LcA-36" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Upsample&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FIe1XCEHFQ-Am0UI0LcA-36" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px;&quot;&gt;Upsample&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="788.57" width="130" height="71.43" as="geometry" />
         </mxCell>
         <mxCell id="FIe1XCEHFQ-Am0UI0LcA-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FIe1XCEHFQ-Am0UI0LcA-39" target="FIe1XCEHFQ-Am0UI0LcA-36" edge="1">
