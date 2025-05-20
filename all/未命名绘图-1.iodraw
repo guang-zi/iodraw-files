@@ -141,7 +141,7 @@
         <mxCell id="fmC1ktLiN5AWYUZ03mSH-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fmC1ktLiN5AWYUZ03mSH-39" target="fmC1ktLiN5AWYUZ03mSH-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fmC1ktLiN5AWYUZ03mSH-39" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;C3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fmC1ktLiN5AWYUZ03mSH-39" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 36px;&quot;&gt;C3&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="490" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fmC1ktLiN5AWYUZ03mSH-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fmC1ktLiN5AWYUZ03mSH-40" target="fmC1ktLiN5AWYUZ03mSH-52" edge="1">
@@ -180,7 +180,7 @@
         <mxCell id="fmC1ktLiN5AWYUZ03mSH-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fmC1ktLiN5AWYUZ03mSH-49" target="fmC1ktLiN5AWYUZ03mSH-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fmC1ktLiN5AWYUZ03mSH-49" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Conv&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fmC1ktLiN5AWYUZ03mSH-49" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 36px;&quot;&gt;Conv&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="590" width="120" height="77" as="geometry" />
         </mxCell>
         <mxCell id="fmC1ktLiN5AWYUZ03mSH-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fmC1ktLiN5AWYUZ03mSH-50" target="fmC1ktLiN5AWYUZ03mSH-51" edge="1">
