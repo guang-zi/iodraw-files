@@ -660,7 +660,7 @@
         </mxCell>
         <mxCell id="9F4Qwhs-Usz0SKLDvUo6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F4Qwhs-Usz0SKLDvUo6-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="240.00000000000023" as="targetPoint" />
+            <mxPoint x="390" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9F4Qwhs-Usz0SKLDvUo6-6" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 36px;&quot;&gt;Conv&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
