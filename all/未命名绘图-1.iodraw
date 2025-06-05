@@ -925,7 +925,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DzN4TIjzE0j2GukEgt4r-34" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 36px;&quot;&gt;Neck&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1028.57" width="120" height="50" as="geometry" />
+          <mxGeometry x="470" y="900" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
